@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: Iemooon
+    - name: zmkfirmware
       url-base: https://github.com/Iemooon
   projects:
-    - name: zmk-833
-      remote: Iemooon
+    - name: zmk
+      remote: zmkfirmware
       revision: main
       clone-depth: 1
       import:
